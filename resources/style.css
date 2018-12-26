@@ -19,3 +19,7 @@ body {
     font-size: 21px;
     
 }
+.copyright-content {
+    text-align: right;
+    color: grey;
+}
